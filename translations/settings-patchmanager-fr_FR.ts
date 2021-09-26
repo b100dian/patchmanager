@@ -98,7 +98,7 @@
         <location filename="../src/qml/LegacyPatchPage.qml" line="63"/>
         <location filename="../src/qml/NewPatchPage.qml" line="63"/>
         <source>Load engine before applying patches</source>
-        <translation type="unfinished"/>
+        <translation>Charger l&apos;engine avant d’appliquer des patches </translation>
     </message>
     <message>
         <location filename="../src/qml/LegacyPatchPage.qml" line="73"/>
